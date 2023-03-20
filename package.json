@@ -1,0 +1,25 @@
+{
+  "name": "client-project-test",
+  "version": "0.0.1",
+  "description": "Test usage of Jsonic from a client project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli-basic": "jsonic a:1",
+    "cli-csv": "jsonic -p csv -o plugin.record.separators=^ 'a,b^1,2^3,4'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonicjs/client-project-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsonicjs/client-project-test/issues"
+  },
+  "homepage": "https://github.com/jsonicjs/client-project-test#readme",
+  "dependencies": {
+    "@jsonic/csv": "^0.4.0",
+    "@jsonic/jsonic-next": "^2.9.1"
+  }
+}
