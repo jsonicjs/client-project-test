@@ -27,6 +27,7 @@
     "@jsonic/jsonic-next": "^2.12.1",
     "@jsonic/multisource": "^1.1.0",
     "@jsonic/path": "^0.6.6",
-    "@jsonic/toml": "^0.4.4"
+    "@jsonic/toml": "^0.4.4",
+    "aontu": "^0.16.0"
   }
 }
