@@ -25,7 +25,7 @@
     "@jsonic/hoover": "^0.3.5",
     "@jsonic/ini": "^0.2.4",
     "@jsonic/jsonic-next": "^2.12.1",
-    "@jsonic/multisource": "^1.0.6",
+    "@jsonic/multisource": "^1.1.0",
     "@jsonic/path": "^0.6.6",
     "@jsonic/toml": "^0.4.4"
   }
